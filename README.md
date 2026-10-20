@@ -1,3 +1,10 @@
+<!-- antora-terminal:start -->
+<p align="center">
+  <img src=".github/antora/terminal.svg" width="100%" alt="SABEKUNNAHER ANTORA — decorative animated code rain and moving circuit packets. React / TypeScript / Vite / GitHub Pages." />
+</p>
+<sub>Decorative SVG motion · matching Antora developer workspace theme · reduced-motion support</sub>
+<!-- antora-terminal:end -->
+
 # Sabekunnaher Antora — developer portfolio
 
 An original portrait-led portfolio with a fixed desktop navigation rail, eight independent destinations, editorial software case studies, and a near-black/electric-blue design system.
