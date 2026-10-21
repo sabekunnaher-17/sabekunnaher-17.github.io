@@ -12,7 +12,7 @@
 
 
 
-An original portrait-led portfolio with a fixed desktop navigation rail, eight independent destinations, editorial software case studies, and a near-black/emerald design system. The hacker-inspired presentation includes a pointer-reactive particle network, orbiting portrait details, floating code labels, and an interactive portfolio terminal. Motion can be paused and honors the operating system’s reduced-motion preference.
+An original portrait-led portfolio with a fixed desktop navigation rail, eight independent destinations, editorial software case studies, and a midnight-plum design system with lavender and peach accents. The presentation includes CSS light ribbons, gently moving geometric portrait frames, floating code labels, and an interactive portfolio terminal. Motion can be paused and honors the operating system’s reduced-motion preference.
 
 
 
