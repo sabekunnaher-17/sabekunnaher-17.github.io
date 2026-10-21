@@ -109,6 +109,8 @@ html[data-visibility=hidden] *{animation-play-state:paused!important}
 .expertise-row:hover,.leadership-timeline article:hover,.course-list li:hover{background:linear-gradient(90deg,#f1b89909,transparent)}
 .tech-list li{background:#f1b89908;border-color:#624877;color:#d3bce4;border-radius:3px}
 .dashboard-preview,.certification-record{background:#261c34dd;border-radius:8px;border-color:#624877}
+.primary-case .dashboard-preview{width:100%;max-width:580px;margin-inline:auto;padding:16px}
+@media(max-width:580px){.primary-case .dashboard-preview{padding:12px}}
 .about-photo img{border-radius:6px;border:1px solid #75588b}
 .site-footer{padding-bottom:58px;color:#baa5c9}
 .motion-toggle{position:fixed;bottom:14px;right:20px;display:flex;align-items:center;gap:7px;z-index:50;border:1px solid #7a5a8f;background:#281c38f5;color:#e1cbed;border-radius:5px;padding:9px 12px;font:9px var(--mono);box-shadow:0 3px 20px #0004;min-height:34px}
