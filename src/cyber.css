@@ -110,6 +110,10 @@ html[data-visibility=hidden] *{animation-play-state:paused!important}
 .tech-list li{background:#f1b89908;border-color:#624877;color:#d3bce4;border-radius:3px}
 .dashboard-preview,.certification-record{background:#261c34dd;border-radius:8px;border-color:#624877}
 .primary-case .dashboard-preview{width:100%;max-width:580px;margin-inline:auto;padding:16px}
+.projectflow-layout{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.05fr);gap:38px;align-items:start}
+.projectflow-layout .primary-details{display:flex;flex-direction:column;gap:25px;margin-top:0}
+.projectflow-layout .case-intro>p{font-size:24px;line-height:1.45;margin-top:12px}
+@media(max-width:760px){.projectflow-layout{grid-template-columns:minmax(0,1fr);gap:28px}.projectflow-layout .primary-details{gap:25px}.projectflow-layout .case-intro>p{font-size:23px}}
 @media(max-width:580px){.primary-case .dashboard-preview{padding:12px}}
 .about-photo img{border-radius:6px;border:1px solid #75588b}
 .site-footer{padding-bottom:58px;color:#baa5c9}
